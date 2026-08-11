@@ -1,0 +1,24 @@
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Vite / Frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+
+
