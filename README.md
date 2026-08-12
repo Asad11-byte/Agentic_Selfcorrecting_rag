@@ -6,6 +6,7 @@ when the answer is ungrounded or off-topic.** Built on Groq (LLM), Jina AI (embe
 (vector store), orchestrated as a `langgraph.StateGraph`. FastAPI backend, Vite/React frontend.
 
 ---
+![alt text](Agentic-self-correcting-Rag.png)
 
 ## 1. How it works
 
